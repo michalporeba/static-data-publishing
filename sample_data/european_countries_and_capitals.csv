@@ -1,0 +1,25 @@
+Country,Capital,Country Population (Millions),Capital Population (Thousands),Country Area (km^2),Capital Area (km^2),GDP per capita (USD)
+Austria,Vienna,8.9,1.9,83871,414.0,50716
+Belgium,Brussels,11.5,1.2,30528,32.6,46653
+Czech Republic,Prague,10.7,1.3,78866,496.0,23444
+Denmark,Copenhagen,5.8,0.6,43094,88.0,60113
+Estonia,Tallinn,1.3,0.4,45227,159.2,23293
+Finland,Helsinki,5.5,0.65,338145,213.75,48675
+France,Paris,67.1,2.2,551695,105.4,41464
+Germany,Berlin,83.2,3.6,357022,891.8,46485
+Greece,Athens,10.4,0.66,131957,38.96,19439
+Hungary,Budapest,9.7,1.75,93028,525.0,15846
+Ireland,Dublin,4.9,1.2,70273,115.0,78641
+Italy,Rome,60.4,2.8,301340,1285.0,31995
+Latvia,Riga,1.9,0.7,64559,307.17,15848
+Lithuania,Vilnius,2.8,0.54,65300,401.0,17483
+Luxembourg,Luxembourg,0.6,0.12,2586,51.46,115696
+Netherlands,Amsterdam,17.4,0.86,41543,219.3,52249
+Poland,Warsaw,38.0,1.8,312696,517.24,15647
+Portugal,Lisbon,10.3,0.5,92212,100.05,23106
+Romania,Bucharest,19.2,1.83,238397,228.0,12371
+Slovakia,Bratislava,5.5,0.43,49035,367.58,19454
+Slovenia,Ljubljana,2.1,0.28,20273,163.8,25711
+Spain,Madrid,47.3,3.3,505992,604.3,29412
+Sweden,Stockholm,10.3,0.97,450295,188.0,51475
+United Kingdom,London,67.9,8.9,243610,1572.0,42658

@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.w3.org/ns/csvw",
+  "url": "european_countries_and_capitals.csv",
+  "tableSchema": {
+    "columns": [
+      {
+        "name": "Country",
+        "titles": "Country",
+        "datatype": "string"
+      },
+      {
+        "name": "Capital",
+        "titles": "Capital",
+        "datatype": "string"
+      },
+      {
+        "name": "Country Population (Millions)",
+        "titles": "Country Population (Millions)",
+        "datatype": "number"
+      },
+      {
+        "name": "Capital Population (Thousands)",
+        "titles": "Capital Population (Thousands)",
+        "datatype": "number"
+      },
+      {
+        "name": "Country Area (km^2)",
+        "titles": "Country Area (km^2)",
+        "datatype": "number"
+      },
+      {
+        "name": "Capital Area (km^2)",
+        "titles": "Capital Area (km^2)",
+        "datatype": "number"
+      },
+      {
+        "name": "GDP per capita (USD)",
+        "titles": "GDP per capita (USD)",
+        "datatype": "number"
+      }
+    ]
+  }
+}
